@@ -103,4 +103,4 @@ Repositório da disciplina Arquiteturas de Serviços do curso Pós Tech em Arqui
 
 **Observação:**
 
-Os arquivos docker-compose-mysql.yaml e docker-compose-mongodb.yaml são para criar uma instância dos respectivos bancos de dados.  É necessário ter o docker instalado na máquina para executá-los.
+Os arquivos `docker-compose-mysql.yaml` e `docker-compose-mongodb.yaml` são para criar uma instância dos respectivos bancos de dados.  É necessário ter o `docker` instalado na máquina para executá-los.

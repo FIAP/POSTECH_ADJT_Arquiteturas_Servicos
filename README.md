@@ -8,8 +8,9 @@
 Repositório da disciplina Arquiteturas de Serviços do curso Pós Tech em Arquitetura e Desenvolvimento em Java da FIAP
 
 
-### AULA 01:
+### AULAS:
 
+<br>
 
 **Microsserviço Cidade**
 
@@ -95,3 +96,11 @@ Repositório da disciplina Arquiteturas de Serviços do curso Pós Tech em Arqui
 3. DataGrip: Gerenciamento de Banco de Dados
 4. Ferramentas de API: Swagger, Postman, etc.
 5. Controle de Versão: Git
+6. Docker
+
+
+<br>
+
+**Observação:**
+
+Os arquivos docker-compose-mysql.yaml e docker-compose-mongodb.yaml são para criar uma instância dos respectivos bancos de dados.  É necessário ter o docker instalado na máquina para executá-los.
